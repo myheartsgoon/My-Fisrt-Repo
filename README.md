@@ -1,3 +1,2 @@
-# My-Fisrt-Repo
-My Fisrt Repo
-This is edited version of README.
+# Web Scraping
+This is repository for web scraping.
